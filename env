@@ -1,0 +1,9 @@
+# Токен бота (получить у @BotFather)
+BOT_TOKEN=7993755757:AAHpoE18JgmCVPC7cL7N1Xb9boHeFKb7NFc
+
+# ID администратора (узнать у @userinfobot)
+ADMIN_IDS=1061016458
+
+# Дополнительные настройки (если нужны)
+DATABASE_URL=postgres://user:password@localhost/dbname
+DEBUG_MODE=False
